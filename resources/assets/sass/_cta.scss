@@ -1,0 +1,48 @@
+.cta {
+  background: url("../img/index-background.png") center center;
+  background-size: cover;
+  height: calc(100vh - 77px);
+  position: relative;
+}
+
+.cta__center {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.cta__search {
+  position: relative;
+}
+
+.cta__field {
+  border: 0;
+  padding: 20px;
+  width: 100%;
+}
+
+.cta__searchicon {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  color: #464646;
+}
+
+.cta__header {
+  text-align: center;
+  color: #eeeeee;
+  font-size: 3.5em;
+}
+
+.cta__subheader {
+  margin: 45px 0 50px;
+  line-height: 23px;
+  text-align: center;
+  color: #e1e1e1;
+  font-weight: 700;
+}
