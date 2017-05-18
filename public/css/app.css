@@ -4137,6 +4137,13 @@ body {
   float: right;
 }
 
+.menu .menu__avatar {
+  float: right;
+  margin: -13px 0 0 20px;
+  height: 40px;
+  border-radius: 50%;
+}
+
 .menu .menu__logo {
   width: 180px;
 }
