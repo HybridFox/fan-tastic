@@ -11,7 +11,7 @@
                     Something here about how great this is
                 </h3>
                 <div class="cta__search">
-                    <input type="text" class="cta__field" placeholder="Search here">
+                    <input type="text" class="cta__field" placeholder="Location, Name, Fandom,...">
                     <i class="fa fa-search cta__searchicon"></i>
                 </div>
             </div>
